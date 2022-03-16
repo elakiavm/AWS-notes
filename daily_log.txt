@@ -1,0 +1,45 @@
+"
+git config --global user.email "vmelakia@gmail.com"
+  git config --global user.name "elakia"
+conda create -n py38 -y python=3.8
+
+
+
+Docker
+Hugo 
+Trello
+Postman
+Joplin
+
+install g++
+sudo apt install g++
+sudo apt install build-essential
+
+install gdb
+sudo apt update
+sudo apt install gdb
+
+install gcc
+sudo apt update
+sudo apt install build-essential
+sudo apt-get install manpages-dev
+gcc --version
+ 
+
+memcached
+sudo systemctl status memcached
+
+conda create -n py37 -y python=3.7
+
+
+
+
+
+
+
+
+
+
+
+
+
