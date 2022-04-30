@@ -1,0 +1,96 @@
+"
+git config --global user.email "vmelakia@gmail.com"
+  git config --global user.name "elakia"
+conda create -n py38 -y python=3.8
+
+
+
+Docker
+Hugo 
+Trello
+Postman
+Joplin
+
+install g++
+sudo apt install g++
+sudo apt install build-essential
+
+install gdb
+sudo apt update
+sudo apt install gdb
+
+install gcc
+sudo apt update
+sudo apt install build-essential
+sudo apt-get install manpages-dev
+gcc --version
+ 
+
+memcached
+sudo systemctl status memcached
+
+conda create -n py37 -y python=3.7
+
+
+---------------------------------------------------------/
+► Links to the best programming monitors we listed in this video:
+
+► 5. HP VH240a - https://amzn.to/3jdNuvB
+► 4. Dell U2415 - https://amzn.to/37cRkPQ
+► 3. Dell U3818DW - https://amzn.to/3A1XVsW
+► 2. BenQ PD2700U - https://amzn.to/3A58qvg
+► 1. Dell U2720Q - https://amzn.to/3fndnYq
+-------------------------------------
+https://www.amazon.com/dp/B09NZS1YD9/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B09NZS1YD9&pd_rd_w=Pey8N&pf_rd_p=0c758152-61cd-452f-97a6-17f070f654b8&pd_rd_wg=Z9Bnx&pf_rd_r=SFWKWAFV17YZGFPAR75F&pd_rd_r=bee40593-0dc5-4e35-b2c1-b80dca2b3b35&s=pc&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSTYwS0JPNTdYSFJNJmVuY3J5cHRlZElkPUEwNTA1Mjk1MkZRMVZISVdGRllGJmVuY3J5cHRlZEFkSWQ9QTA0MjI1ODAyRjdVSkUwRUJFVkc5JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+
+
+
+
+
+---------------------------------------------------------/
+
+
+
+
+---------------------------------------------------------/
+
+
+
+
+---------------------------------------------------------/
+
+
+
+
+---------------------------------------------------------/
+
+
+
+
+---------------------------------------------------------/
+
+
+
+
+---------------------------------------------------------/
+
+
+
+
+---------------------------------------------------------/
+
+
+
+
+---------------------------------------------------------/
+
+
+
+
+
+
+
+
+
+
+
