@@ -175,13 +175,52 @@ Route53
 
 
 -------------------------------------------------------------------------------
+## AWS Global Infrastructure 
+19 Region & 57 Availability zone - December 2018
+5 more regions & 15 More AZ' for 2019
 
+Available zone is like data center 
+
+Region is a geographical area.Each Region consists of 2 Available Zones
+GovCloud exist in US-East and US-West : it is only for the U.S citizen or green card holder 
+
+## Edge Location are endpoints for AWS which are usd for caching content. Typically this consists of CloudFront, Amazon's Content Delivery Network (CDN)
+there are many more Edge Location than Region Currently there are over 150 Edge Locations.
+
+Choosing the right AWS Region ?
+Data Sovereignty Laws : means keeping the data within the country
+Latency to end user :
+AWS Service  
 
 
 
 -------------------------------------------------------------------------------
+## Support Plan 
 
+https://aws.amazon.com/premiumsupport/plans/
+Basic 
+free
+only customer service for account and billing no technical support and get access to the AWS Community Forums
 
+Developer 
+$29(scales based on usage)
+24/7 support in the phone 
+one hour response to urgent support cases, where you go and ask questions 
+
+Business 
+24/7 support by phone
+one hour response to urgent support cases and help with common third-party software
+Full access to the AWS Trusted Advisor 
+Then you get support to the AWS Support API
+$100 per month for the Business one 
+
+Enterprise
+Most the Fortune 500 companies would use.
+$1500 per month 
+Technical Account Manager: it's between you and the AWS basically you can ask any kind of support-related question too
+And you get 15-minutes response times to critical support cases with prioritized cases handling 
+
+SLAs or Service Level Agreements
 
 
 -------------------------------------------------------------------------------
